@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b24c09c-1a1d-4b3c-9582-c099d18ac02f" name="Default Changelist" comment="" />
+    <list default="true" id="9b24c09c-1a1d-4b3c-9582-c099d18ac02f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/frontend/src/pages/DesktopPage/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+            <state relative-caret-position="211">
+              <caret line="137" column="63" lean-forward="true" selection-start-line="137" selection-start-column="63" selection-end-line="137" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -186,6 +188,11 @@
               <item name="Project110" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="Project110" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
+            <path>
+              <item name="Project110" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Project110" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -198,7 +205,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541554714213" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541555536159" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -274,7 +281,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540997791525</updated>
-      <workItem from="1540997794275" duration="8107000" />
+      <workItem from="1540997794275" duration="8726000" />
     </task>
     <servers />
   </component>
@@ -290,7 +297,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8107000" />
+    <option name="totallyTimeSpent" value="8726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="316" y="23" width="1400" height="775" extended-state="0" />
@@ -452,8 +459,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/frontend/src/pages/DesktopPage/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+        <state relative-caret-position="211">
+          <caret line="137" column="63" lean-forward="true" selection-start-line="137" selection-start-column="63" selection-end-line="137" selection-end-column="63" />
         </state>
       </provider>
     </entry>
